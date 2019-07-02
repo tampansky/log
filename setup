@@ -13,6 +13,8 @@ install(){
     sleep 1
     termux-setup-storage
     sleep 1
+    cd 
+    sleep 1
     cd storage
     sleep 1
     git clone https://github.com/tampansky/Downloader
